@@ -8,7 +8,7 @@ Desenvolvimento de sistemas em PHP e Mysql com Laravel
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avianarocket" alt="avianarocket" /></a> </p>
 
-- 🔭 Estou Iniciando projetos, recriando meus projetos antigos desenvolvidos em php mvc, para de. em Laravel [AvianaShop Laravel](em_breve...)
+- 🔭 Estou Iniciando projetos, recriando meus projetos antigos desenvolvidos em php mvc, para dev com Laravel. Logo estarão disponíveis bem aqui!
 
 - 🌱 Atualmente Aperfeiçoando-me em Laravel e Dev. Mobile com: **Flutter, Firebase, Laravel, API em PHP e DB MySql...**
 
